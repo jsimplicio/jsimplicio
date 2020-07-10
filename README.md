@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🧑🏽‍💻 I'm actively coding in JavaScript 
+- 🧑🏽‍💻 I'm actively designing in Figma 
+- 💁🏽‍♂️My pronouns are they/them/theirs
+- 📫 hi@julessimplic.io
 
 <!--
 **jsimplicio/jsimplicio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
