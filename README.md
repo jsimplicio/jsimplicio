@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🧑🏽‍💻 I'm actively coding in JavaScript and SwiftUI
 - 🧑🏽‍💻 I'm actively designing in Figma 
-- 💁🏽‍♂️ My pronouns are they/them/theirs
+- 💁🏽‍♂️ My pronouns are they/he
 - 📫 hi@julessimplic.io
 
 <!--
