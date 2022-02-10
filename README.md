@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🧑🏽‍💻 I'm actively coding in JavaScript and SwiftUI
+- 🧑🏽‍💻 I'm actively coding in JavaScript and Swift
 - 🧑🏽‍💻 I'm actively designing in Figma 
 - 💁🏽‍♂️ My pronouns are they/he
 - 📫 hi@julessimplic.io
