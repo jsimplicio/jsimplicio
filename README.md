@@ -1,7 +1,6 @@
 ### Hi there 👋
-- 🧑🏽‍💻 I'm actively coding in JavaScript and Swift
-- 🧑🏽‍💻 I'm actively designing in Figma 
-- 💁🏽‍♂️ My pronouns are they/he
+- 🔭 I'm currently working as a design technologist on Firefox's design system.
+- 😄 My pronouns are they/them
 - 📫 hi@julessimplic.io
 
 <!--
